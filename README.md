@@ -1,10 +1,17 @@
 # Hi, I'm Manoj 👋
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/Y073XklaFddvZkGgUZ/giphy.gif"
+    alt="Animated illustration"
+    width="240"
+  />
+</p>
 
 > **I don't code just to code. I code to build things I care about.**
 
 I'm a **Senior Application Developer** who enjoys making complex technology simpler, more reliable, and more useful.
 
-At work, I build and improve cloud-backed applications and APIs. I'm especially interested in **TypeScript, AWS, observability, and automation**—understanding how systems behave, diagnosing failures, and removing repetitive work from people's days.
+At work, I build and improve cloud-backed applications and APIs. I'm especially interested in **TypeScript, AWS, observability, and automation** understanding how systems behave, diagnosing failures, and removing repetitive work from people's days.
 
 Outside work, I follow my curiosity into **AI experiments, mobile apps, animation, interactive storytelling, and small inventions**. I like learning by making something real, even if it's just a prototype.
 
